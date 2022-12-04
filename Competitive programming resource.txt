@@ -1,0 +1,159 @@
+কম্পিটিটিভ প্রোগ্রামিং  রিসোর্চ
+
+ 
+
+কম্পিটিটিভ প্রোগ্রামিং যারা নতুন শুরু করে তারা সবচেয়ে বেশি যেটা নিয়ে ঝামেলাতে পরে তা হল শিখার জন্য রিসোর্চ খুজে বের করতে । তাই আমি এই পোস্টে কম্পিটিটিভ প্রোগ্রামিং রিলেটেড কিছু রিসোর্চ শেয়ার করব যেগুলা basically আমি ফলো করেছি ।
+
+     Some CP guideline which you should follow:
+
+1.     (14) CP GUIDELINES (Beginner) - YouTube
+
+2.     Newbies'/Pupils' constant dillemma. (Advice for people rated below expert ) - Codeforces
+
+ or Cp roadmap for below experts - Google Docs
+
+3.     (14) Topics You Must Know to Reach Expert on Codeforces || 5* on CodeChef || Free Resources - YouTube
+
+4.     Facebook
+
+            Some important book for CP:
+
+1.     book.pdf (cses.fi)
+
+2.     cpp.pdf (darrenyao.com)
+
+      Some important website:
+
+1.     Main Page - Algorithms for Competitive Programming (cp-algorithms.com)
+
+2.     GeeksforGeeks | A computer science portal for geeks
+
+3.     USACO Guide
+
+4.     শাফায়েতের ব্লগ | প্রোগ্রামিং এবং অ্যালগরিদম টিউটোরিয়াল (shafaetsplanet.com)
+
+5.     https://turing13.com/cp-resources/
+
+6. Catalog - Codeforces
+
+     Some site link for solving problem:
+
+                               1.     Codeforces: Codeforces
+
+                               2.     Codechef: Competitive Programming | Participate & Learn | CodeChef
+
+                               3.     Atcoder: AtCoder
+
+4.     Atcoder Problemset: AtCoder Problems (kenkoooo.com)
+
+5.     CSES(For classical problem): CSES - CSES Problem Set - Tasks
+
+6.     LightOJ: Home | LightOJ
+
+7.     Toph: Toph - Competitive Programming Platform
+
+     Some important Resource of learning c/c++:
+
+1.     Book Link:
+
+                                       i.Tamim Shahriar Subeen c programming book pdf: কম্পিউটার প্রোগ্রামিং বই: PDF Download (subeen.com)
+
+                                   ii.  Complete Reference of c: C The Complete Reference 4th Ed Herbert Schildt[www.fullfreedownload.in].pdf - Google Drive
+
+                                   iii.Complete Reference of C++: C++ --Complete Reference - PDF Drive
+
+2.       Video Tutorial Link:
+
+         i. Anisul Islam C play list(jodi bangla tutorial dekhte chan eita dekhte paren): (14) c programming Bangla Tutorials (সবার জন্য সি প্রোগ্রামিং) - YouTube
+
+                                     ii. Neso Academy C play list: (14) C Programming - YouTube
+
+প্রোগ্রিমিং করা শুরু করার জন্য আপনাকে প্রথমে যে কাজটা করতে হবে তা হল একটা programming language শিখতে হবে । এইক্ষেত্রে যেকোন ল্যাংগুয়েজ শিখলে হবে ।তবে আমি সাজেস্ট করব সি দিয়ে শুরু করার জন্য যখন সি এর বেসিক শিখা হয় যাবে তখন সি++ এ সুইচ করবেন । সি শিখলে সি++ সহজেই শিখতে পারবেন তেমন কন পার্থক্য নাই। সি/সি++ শিখার জন্য আপনি উপরের যেকোন রিসোর্চ ফলো করতে পারবেন আপনি যেভাবে কম্পোর্টেভল ফিল ওইভাবে শিখতে পারেন।
+
+       About Time & space complexity:
+
+                 Time Complexity · USACO Guide
+
+      Some important Resource of learning STL:
+
+1.     The C++ Standard Template Library (STL) - GeeksforGeeks
+
+2.     (14) C++ STL | Competitive Programming - YouTube
+
+3.     C++ STL complete course by Raj(striver):
+
+                                                                        i. DAY 1:(14) L1 | C++ STL Complete Course | Raj (Striver) | Beginner to Advanced Level - YouTube
+
+                                                                         ii. DAY 2: (14) L2 | C++ STL Complete Course | Raj (Striver) | Everything about C++ STL - YouTube
+
+ iii. DAY 3: (14) L3 | C++ STL Complete Course | Raj (Striver) | Algorithms (Implementation), Comparator and Problems - YouTube
+
+      Some basic algorithm and technique and it’s learning resource:
+
+                      ****Usaco Guide Bronze: USACO Bronze Topics · USACO Guide
+
+1.     Binary Search:
+
+           i. Binary Search algorithm by Raj(striver):
+
+ Lecture 01: (14) L1 | Binary Search Algorithm - 1 | Binary Search Master Class | Raj (Striver) - YouTube
+
+ Lecture 02: (14) L2 | Binary Search Problems on Sorted Arrays | Leetcode | Raj (Striver) - YouTube
+
+                                                                                      ii.  (14) Binary Search & How I write it | Tutorial | CP Course | EP 40 - YouTube
+
+                                                                                       iii.  Binary Search - Codeforces
+
+2.       Prefix Sum: (14) Pre-Computation using Prefix Sum in 1D/2D Arrays | Competitive Programming Course | EP 13 - YouTube
+
+3.       Suffix Sum: (14) What is the suffix sum? | find Equilibrium index of an array 🔥 | full explanation in Hindi 🙏🏼 - YouTube
+
+4.       Kaddens algo: Largest Sum Contiguous Subarray (Kadane's Algorithm) - GeeksforGeeks
+
+5.       Bit manipulation:
+
+                  1.  (14) Bit Manipulation : CodeNCode - YouTube                                           2. https://www.hackerearth.com/practice/notes/bit-manipulation/
+
+                                            
+
+6.String Algorithm: (14) String Algorithms : CodeNCode - YouTube
+
+7.       Basic Math for CP: (14) Maths for DSA/CP : All You Need To Know - YouTube
+
+8.       Frequency array: (14) Frequency of each element in an Array | DSA with C++ | Episode 16 | Yogesh Yogendra - YouTube
+
+9.       Recursion: (14) Recursion for DSA/CP : BEST way to Understand - YouTube
+
+10.   Basic DP: (14) Dynamic Programming Part 1 : CodeNCode - YouTube
+
+11.   Two pointer: Two Pointers Method - Codeforces
+
+       Number Theory:
+
+                                                   i. Video Tutorial: (14) Number Theory : CodeNCode - YouTube
+
+   ii.         Programming Camp 2020 Session 1: Number Theory and Inclusion-Exclusion Part 1 | Life Coding
+
+   iii.  For Practicing number theory problem solve from cses mathematics section(at least 15 problem) and lightoj math section problem(at least 15 problem)
+
+    ·   Graph Theory:
+
+ i.  (14) Striver's Graph Series | Graphs | Data Structures and Algorithms | C++ | Java - YouTube
+
+  ii.  (14) Graph Theory: From Beginner to Intermediate - YouTube
+
+         Disjoint Set Union:
+
+                                                            i. Part 01: https://youtu.be/0je9gB1qWH0
+
+Part 02: (14) DSU Master Class - Part 2 | Competitive Programming Special Classes | Sanket Singh | CodeChef - YouTube
+
+Part 03: (14) DSU Master Class - Part 3 | Competitive Programming Special Classes | Sanket Singh | CodeChef - YouTube
+
+         DP:
+
+          i.  (14) Dynamic Programming(Beginner to advanced) - YouTube
+
+                                  ii.   (14) Dynamic Programming Bootcamp | IITGN - YouTube
+
+এছাড়া আরও অনেক এডভান্স টপিক আছে যেগুলা এখনও আমি নিজে ও শিখি ওইগুলার রিসোর্চ পরে অন্য কোন পোস্টে শেয়ার করার চেষ্টা করব। আর কিভাবে প্রেক্টিস করবেন না করবেন সেটা গাইড লাইন গুলা দেখলে বুজতে পারবেন।যারা বিগিনার তারা CSES এর introductory problem & sorting and searching section এর প্রব্লেম সল্ভ করতে পারেন তাইলে ইম্পেলিমেন্টেসন টাইপের প্রব্লেম(codeforces div2(A,B),div3 & div4(A,B,C)) সহজেই সল্ভ করতে পারবেন ।

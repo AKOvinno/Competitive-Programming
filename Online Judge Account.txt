@@ -1,0 +1,34 @@
+1. Uri online judge
+2. Uva
+3. Codeforce
+4. LightOj
+5. HackerRank
+6. Topcoder
+7. Leetcode
+8. Spoj
+9. Codechef
+10. HackerEarth
+11. Timus(300469CF)
+12. atcoder
+13. codewars
+14. Vjudge
+15. Project Euler
+16. Codingame
+17. InterviewBit
+
+
+Hacking: 
+
+(https://gist.github.com/numberwhun/d85075f4f63411bafa1c6e40e15e4c4b)
+
+1. https://www.hellboundhackers.org/user/rank.php
+2. https://www.root-me.org/?lang=en
+3. http://www.gameofhacks.com/
+4. https://google-gruyere.appspot.com/#0__hackers
+5. https://overthewire.org/wargames/
+6. https://www.hackthebox.eu/
+7. https://w3challs.com/
+8. https://www.hackerone.com/for-hackers/hacker-101
+9. https://tryhackme.com/
+10. https://www.swiss-hacking-challenge.ch/
+11. www.hackthissite.org
